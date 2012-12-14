@@ -27,21 +27,21 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/AndroidManifest.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355223865909" ignored="false" />
     <file path="/SurfaceView.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355224039735" ignored="false" />
-    <file path="/GameActivity.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355424727539" ignored="false" />
+    <file path="/GameActivity.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355482202227" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/main/java/eu/eurodir/at/cds/modules/zoover/ReviewXmlGenerator.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227809857" ignored="false" />
     <file path="/ReviewXmlGenerator.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227808902" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/ReviewXmlGeneratorTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227936731" ignored="false" />
     <file path="/ReviewXmlGeneratorTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227545420" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/FeedImporterTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227965661" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/FeedImporterTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355473453349" ignored="false" />
     <file path="/fragment.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355469102479" ignored="false" />
-    <file path="/Dummy.txt" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355469102479" ignored="false" />
+    <file path="/Dummy.txt" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477305588" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/ZooverReviews.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355228344250" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Game.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355252843834" ignored="false" />
     <file path="/Game.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355248976751" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Screen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355249006047" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Sprite.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305703653" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Shape.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355253064761" ignored="false" />
-    <file path="/Shape.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355422839994" ignored="false" />
+    <file path="/Shape.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355481807715" ignored="false" />
     <file path="/Sprite.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305110481" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/ramayan/HomeScreen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305102599" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/ramayan/Button.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355302607088" ignored="false" />
@@ -51,16 +51,37 @@
     <file path="/basic_shader_vert.hls" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355253492771" ignored="false" />
     <file path="/Square.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355403273558" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Square.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355252990678" ignored="false" />
-    <file path="/Triangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355414524562" ignored="false" />
+    <file path="/Triangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355482656182" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/InputManager.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355302712999" ignored="false" />
     <file path="/HomeScreen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305099209" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/util/ContentRequestConstants.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355389320714" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/util/ContentRequestConstants.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355472368966" ignored="false" />
     <file path="$PROJECT_DIR$/gen/in/hpc/Workshop/Manifest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355396880583" ignored="false" />
-    <file path="/Rectangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355419567110" ignored="false" />
+    <file path="/Rectangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355481970488" ignored="false" />
     <file path="$PROJECT_DIR$/../../Android-Game-Development/ramayan/src/in/hpc/android/game/InputManager.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355464558257" ignored="false" />
     <file path="/InputManager.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355464507116" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cap-test/src/test/java/eu/eurodir/at/modules/ct/captest/testcases/AbstractCTWebservicesTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355464812766" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/web/content/pom.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355469833201" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355483303624" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetByPersistentIdTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477209915" ignored="false" />
+    <file path="/YellowPagesControllerGetByPersistentIdTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355472612876" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetByPersistentIdsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477197093" ignored="false" />
+    <file path="/YellowPagesControllerGetByPersistentIdsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355475887823" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477244439" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerUploadListingsLockMechanismTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477255971" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerUploadListingsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477268013" ignored="false" />
+    <file path="/YellowPagesControllerTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355475806675" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetByPersistentIdsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477102482" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetByPersistentIdTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477047196" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetDeletedTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477050678" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetStatisticsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477056312" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerGetUpdatedTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477149278" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477159995" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/WhitePagesControllerUploadListingsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477176404" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetDeletedTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477219089" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetStatisticsTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477226680" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/controllers/YellowPagesControllerGetUpdatedTest.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355477232728" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/main/java/eu/eurodir/at/cds/modules/zoover/FeedReader.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355478047747" ignored="false" />
+    <file path="/FeedReader.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355478043854" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,10 +151,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GameActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GameActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33333334">
+            <state line="93" column="49" selection-start="2847" selection-end="2847" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="38" selection-start="253" selection-end="253" vertical-scroll-proportion="0.19069767">
               <folding />
             </state>
           </provider>
@@ -142,8 +172,19 @@
       <file leaf-file-name="Triangle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="28" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+            <state line="29" column="105" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="18" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,7 +192,7 @@
       <file leaf-file-name="Shape.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="21" selection-start="3169" selection-end="3169" vertical-scroll-proportion="0.0">
+            <state line="103" column="50" selection-start="3581" selection-end="3587" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,13 +210,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/in/hpc/Workshop/SurfaceView.java" />
         <option value="$PROJECT_DIR$/../../OpenGLES20Basic/src/com/example/android/opengl/MyGLRenderer.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Square.java" />
-        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java" />
         <option value="$PROJECT_DIR$/../../OpenGLES20Complete/src/com/example/android/opengl/MyGLRenderer.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Square.java" />
         <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java" />
         <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -242,6 +283,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -281,7 +323,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,8 +342,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.GameActivity">
     <configuration default="false" name="GameActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
@@ -353,6 +394,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -379,19 +433,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -507,7 +548,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -521,14 +562,14 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.70477813" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2542662" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45221844" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.7542662" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1590909" sideWeight="0.7457338" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24573378" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21363637" sideWeight="0.8003413" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1996587" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.67064846" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -658,13 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="49" selection-start="298" selection-end="306" vertical-scroll-proportion="0.24131627">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../OpenGLES20Complete/src/com/example/android/opengl/MyGLRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="140" column="47" selection-start="4680" selection-end="4690" vertical-scroll-proportion="4.6399026">
@@ -674,23 +708,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="28" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+        <state line="103" column="50" selection-start="3581" selection-end="3587" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java">
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="21" selection-start="3169" selection-end="3169" vertical-scroll-proportion="0.0">
+        <state line="40" column="18" selection-start="1335" selection-end="1335" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="105" selection-start="948" selection-end="948" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33333334">
+        <state line="93" column="49" selection-start="2847" selection-end="2847" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="38" selection-start="253" selection-end="253" vertical-scroll-proportion="0.19069767">
           <folding />
         </state>
       </provider>

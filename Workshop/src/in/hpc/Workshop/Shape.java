@@ -16,6 +16,11 @@ public abstract class Shape {
     protected float[] color = new float[]{1, 1, 1, 1};
 
     protected final int COORDS_PER_VERTEX = 3;
+    private float dx;
+    private float dy;
+    private float angle;
+    private float scaleX;
+    private float scaleY;
 
     public void initialize() {
         vertexBuffer = createVertexBuffer();
@@ -84,22 +89,61 @@ public abstract class Shape {
         return vertexPositionHandle;
     }
 
+    // set viewProjection matrix in shader
+    protected void setModelViewProjectionMatrixInShader(int shaderProgram, float[] viewMatrix, float[] projectionMatrix) {
+        float[] modelMatrix = new float[16];
+        Matrix.setIdentityM(modelMatrix, 0);
+        Matrix.translateM(modelMatrix, 0, dx, dy, 0);
+
+        float[] modelViewMatrix = new float[16];
+        Matrix.multiplyMM(modelViewMatrix, 0, modelMatrix, 0, viewMatrix, 0);
+
+        float[] mvpMatrix = new float[16];
+        Matrix.multiplyMM(mvpMatrix, 0, projectionMatrix, 0, modelViewMatrix, 0);
+
+        Matrix.scaleM(mvpMatrix, 0, scaleX, scaleY, 0);
+        Matrix.rotateM(mvpMatrix, 0, angle, 0, 0, 1);
+
+        int mvpMatrixHandle = GLES20.glGetUniformLocation(shaderProgram, "mMVPMatrix");
+        GLES20.glUniformMatrix4fv(mvpMatrixHandle, 1, false, mvpMatrix, 0);
+    }
+
     // set color in shader
     protected void setColorInShader(int shaderProgram, float[] color) {
         int colorHandle = GLES20.glGetUniformLocation(shaderProgram, "vColor");
         int count = 1;
         int offset = 0;
         GLES20.glUniform4fv(colorHandle, count, color, offset);
+
     }
 
-    public void draw() {
+    public void draw(float[] viewMatrix, float[] projectionMatrix) {
         GLES20.glUseProgram(shaderProgram);
         int vertexPositionHandle = setVertexPositionInShader(shaderProgram, vertexBuffer);
         setColorInShader(shaderProgram, color);
-        drawShape();
+        drawShape(viewMatrix, projectionMatrix);
         GLES20.glDisableVertexAttribArray(vertexPositionHandle);
     }
 
 
-    protected abstract void drawShape();
+    protected abstract void drawShape(float[] viewMatrix, float[] projectionMatrix);
+
+    public void setColor(float[] color) {
+        this.color = color;
+    }
+
+    public void move(float x, float y) {
+        this.dx = x;
+        this.dy = y;
+
+    }
+
+    public void rotate(float angle) {
+        this.angle = angle;
+    }
+
+    public void scale(float scaleX, float scaleY) {
+        this.scaleX = scaleX;
+        this.scaleY = scaleY;
+    }
 }

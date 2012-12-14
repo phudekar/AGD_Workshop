@@ -16,15 +16,18 @@ public class Triangle extends Shape {
     // shaders
     private final String vertexShaderCode =
             "attribute vec4 vPosition;" +
+                    "varying vec4 position;" +
                     "void main() {" +
                     "  gl_Position = vPosition;" +
+                    "position = vPosition;" +
                     "}";
 
     private final String fragmentShaderCode =
             "precision mediump float;" +
+                    "varying vec4 position;" +
                     "uniform vec4 vColor;" +
                     "void main() {" +
-                    "  gl_FragColor = vColor;" +
+                    "  gl_FragColor = vColor * position;" +
                     "}";
 
     public Triangle() {
@@ -53,7 +56,7 @@ public class Triangle extends Shape {
     }
 
     @Override
-    protected void drawShape() {
+    protected void drawShape(float[] viewMatrix, float[] projectionMatrix) {
 
         GLES20.glDrawArrays(GLES20.GL_TRIANGLES, 0, vertexCount);
     }

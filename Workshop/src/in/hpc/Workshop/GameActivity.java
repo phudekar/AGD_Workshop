@@ -5,6 +5,7 @@ import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
 import android.os.Bundle;
+import android.util.Log;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
@@ -15,6 +16,9 @@ public class GameActivity extends Activity implements GLSurfaceView.Renderer {
     private float[] viewMatrix;
     private Triangle triangle;
     private SurfaceView surfaceView;
+    private Rectangle rectangle;
+    private static String TAG = "GameActivity";
+    private Rectangle yellowRectangle;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -32,6 +36,16 @@ public class GameActivity extends Activity implements GLSurfaceView.Renderer {
         GLES20.glClear(GLES20.GL_COLOR_BUFFER_BIT);
         triangle = new Triangle();
         triangle.initialize();
+
+        rectangle = new Rectangle();
+        rectangle.initialize();
+
+        yellowRectangle = new Rectangle();
+        yellowRectangle.setColor(new float[]{1,1,0});
+        yellowRectangle.initialize();
+        yellowRectangle.move(2, 2);
+        yellowRectangle.rotate(45);
+        yellowRectangle.scale(1.5f,1.5f);
     }
 
     @Override
@@ -59,7 +73,7 @@ public class GameActivity extends Activity implements GLSurfaceView.Renderer {
         GLES20.glClearColor(0f, 0f, 0f, 1f);
         GLES20.glClear(GLES20.GL_COLOR_BUFFER_BIT | GLES20.GL_DEPTH_BUFFER_BIT);
 
-        float[] cameraPosition = new float[]{0, 0, -5};
+        float[] cameraPosition = new float[]{0, 0, -10};
         float[] lookAt = new float[]{0, 0, 0};
         float[] upVector = new float[]{0, 1, 0};
 
@@ -77,8 +91,19 @@ public class GameActivity extends Activity implements GLSurfaceView.Renderer {
                 upVector[1],
                 upVector[2]);
 
-        float[] viewProjectionMatrix = new float[16];
-        Matrix.multiplyMM(viewProjectionMatrix, 0, viewMatrix, 0, projectionMatrix, 0);
-        triangle.draw();
+        triangle.draw(viewMatrix,projectionMatrix);
+        rectangle.draw(viewMatrix,projectionMatrix);
+        yellowRectangle.draw(viewMatrix,projectionMatrix);
     }
+
+
+    // check for errors
+    public static void checkGlError(String glOperation) {
+        int error;
+        while ((error = GLES20.glGetError()) != GLES20.GL_NO_ERROR) {
+            Log.e(TAG, glOperation + ": glError " + error);
+            throw new RuntimeException(glOperation + ": glError " + error);
+        }
+    }
+
 }
