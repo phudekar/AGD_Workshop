@@ -27,21 +27,21 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/AndroidManifest.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355223865909" ignored="false" />
     <file path="/SurfaceView.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355224039735" ignored="false" />
-    <file path="/GameActivity.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355396785433" ignored="false" />
+    <file path="/GameActivity.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355424727539" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/main/java/eu/eurodir/at/cds/modules/zoover/ReviewXmlGenerator.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227809857" ignored="false" />
     <file path="/ReviewXmlGenerator.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227808902" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/ReviewXmlGeneratorTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227936731" ignored="false" />
     <file path="/ReviewXmlGeneratorTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227545420" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/modules/zoover/src/test/java/eu/eurodir/at/cds/modules/zoover/FeedImporterTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355227965661" ignored="false" />
-    <file path="/fragment.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355228145625" ignored="false" />
-    <file path="/Dummy.txt" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355228854594" ignored="false" />
+    <file path="/fragment.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355469102479" ignored="false" />
+    <file path="/Dummy.txt" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355469102479" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/ZooverReviews.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355228344250" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Game.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355252843834" ignored="false" />
     <file path="/Game.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355248976751" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Screen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355249006047" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Sprite.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305703653" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Shape.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355253064761" ignored="false" />
-    <file path="/Shape.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355252966679" ignored="false" />
+    <file path="/Shape.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355422839994" ignored="false" />
     <file path="/Sprite.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305110481" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/ramayan/HomeScreen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305102599" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/ramayan/Button.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355302607088" ignored="false" />
@@ -49,13 +49,18 @@
     <file path="/Screen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355248994831" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/res/raw/basic_shader_vert.hls" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355253493439" ignored="false" />
     <file path="/basic_shader_vert.hls" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355253492771" ignored="false" />
-    <file path="/Square.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355252990373" ignored="false" />
+    <file path="/Square.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355403273558" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/Square.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355252990678" ignored="false" />
-    <file path="/Triangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355396590664" ignored="false" />
+    <file path="/Triangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355414524562" ignored="false" />
     <file path="$PROJECT_DIR$/../ramayan/src/in/hpc/android/game/InputManager.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355302712999" ignored="false" />
     <file path="/HomeScreen.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355305099209" ignored="false" />
     <file path="$PROJECT_DIR$/../../../ed/cds/tests/content-tests/src/test/groovy/eu/eurodir/at/webapps/listingsapi/util/ContentRequestConstants.groovy" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355389320714" ignored="false" />
     <file path="$PROJECT_DIR$/gen/in/hpc/Workshop/Manifest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355396880583" ignored="false" />
+    <file path="/Rectangle.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355419567110" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Android-Game-Development/ramayan/src/in/hpc/android/game/InputManager.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355464558257" ignored="false" />
+    <file path="/InputManager.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355464507116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cap-test/src/test/java/eu/eurodir/at/modules/ct/captest/testcases/AbstractCTWebservicesTest.java" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355464812766" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../ed/cds/web/content/pom.xml" changelist="61bcf244-1e9f-4cc9-bd2c-8c0154c3f37b" time="1355469833201" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +85,7 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -115,7 +121,6 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -128,7 +133,7 @@
       <file leaf-file-name="GameActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="15" selection-start="812" selection-end="812" vertical-scroll-proportion="0.6785714">
+            <state line="16" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33333334">
               <folding />
             </state>
           </provider>
@@ -137,10 +142,17 @@
       <file leaf-file-name="Triangle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="11" selection-start="3053" selection-end="3454" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="36" column="28" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="21" selection-start="3169" selection-end="3169" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,9 +169,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/in/hpc/Workshop/SurfaceView.java" />
         <option value="$PROJECT_DIR$/../../OpenGLES20Basic/src/com/example/android/opengl/MyGLRenderer.java" />
-        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Square.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java" />
+        <option value="$PROJECT_DIR$/../../OpenGLES20Complete/src/com/example/android/opengl/MyGLRenderer.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java" />
       </list>
     </option>
   </component>
@@ -226,6 +242,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,7 +281,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -277,7 +293,7 @@
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Android-Game-Development/ramayan" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -469,14 +485,34 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.66040957" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.7542662" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -485,20 +521,20 @@
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.70477813" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3020478" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2542662" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.70477813" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.7542662" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16060606" sideWeight="0.59385663" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38019168" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1590909" sideWeight="0.7457338" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24573378" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.67064846" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.67064846" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924336" sideWeight="0.67064846" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
@@ -563,30 +599,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../OpenGLES20Basic/src/com/example/android/opengl/MyGLRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="65" selection-start="5191" selection-end="5191" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/SurfaceView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="50" selection-start="402" selection-end="426" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="101" selection-start="724" selection-end="724" vertical-scroll-proportion="0.0">
@@ -596,9 +608,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/proguard-project.txt">
@@ -608,19 +618,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="32" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="50" selection-start="402" selection-end="426" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-10/android.jar!/android/opengl/GLES20.class">
@@ -635,31 +643,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../OpenGLES20Basic/src/com/example/android/opengl/MyGLRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="65" selection-start="5191" selection-end="5191" vertical-scroll-proportion="0.3625">
-          <folding />
-        </state>
+        <state line="147" column="65" selection-start="5191" selection-end="5191" vertical-scroll-proportion="0.3625" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../OpenGLES20Basic/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="68" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.75714284">
-          <folding />
-        </state>
+        <state line="37" column="68" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.75714284" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/SurfaceView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="11" selection-start="156" selection-end="156" vertical-scroll-proportion="0.15178572">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="11" selection-start="3053" selection-end="3454" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,9 +665,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../OpenGLES20Complete/src/com/example/android/opengl/MyGLRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="47" selection-start="4680" selection-end="4690" vertical-scroll-proportion="4.6399026">
+          <folding>
+            <element signature="e#0#13034#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="28" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="21" selection-start="3169" selection-end="3169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/in/hpc/Workshop/GameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="15" selection-start="812" selection-end="812" vertical-scroll-proportion="0.6785714">
+        <state line="16" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33333334">
           <folding />
         </state>
       </provider>
